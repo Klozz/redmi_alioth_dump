@@ -1,0 +1,12 @@
+vendor/etc/camera/st_license.lic
+vendor/camera/mimoji/model2.zip
+boot.img
+modem.img
+product/app/WebViewGoogle/WebViewGoogle.apk
+product/priv-app/GmsCore/GmsCore.apk
+product/priv-app/Velvet/Velvet.apk
+system/system/app/MIUIVideoPlayer/MIUIVideoPlayer.apk
+system/system/data-app/MIBrowserGlobal/MIBrowserGlobal.apk
+system/system/priv-app/MiuiCamera/MiuiCamera.apk
+system_ext/apex/com.android.vndk.v30.apex
+system_ext/priv-app/Settings/Settings.apk

@@ -1,0 +1,14 @@
+# qssi-user 12 SKQ1.211006.001 V13.0.7.0.SKHMIXM release-keys
+- manufacturer: xiaomi
+- platform: kona
+- codename: alioth
+- flavor: qssi-user
+- release: 12
+- id: SKQ1.211006.001
+- incremental: V13.0.7.0.SKHMIXM
+- tags: release-keys
+- fingerprint: Redmi/alioth_global/alioth:12/RKQ1.211001.001/V13.0.7.0.SKHMIXM:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: qssi-user-12-SKQ1.211006.001-V13.0.7.0.SKHMIXM-release-keys
+- repo: redmi_alioth_dump
